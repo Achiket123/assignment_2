@@ -1,16 +1,17 @@
 # assignment_2
 
-A new Flutter project.
+# Internship Assignment Project
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Welcome to the Internship Assignment Project! This project serves as the primary deliverable for the internship application process. It aims to demonstrate my skills and capabilities in software development and problem-solving.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The internship assignment project is a flutter application .
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+ <img src="screenshots/_ (1).png" width="100">
+ <img src="screenshots/_ (2).png" width="100">
+ <img src="screenshots/_ (3).png" width="100">
